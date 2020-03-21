@@ -3,7 +3,7 @@ baseurl = "https://nta-variety-blog.netlify.com/"
 languageCode = "jp"
 
 
-title = "‰´‚½‚¿‚ÌBlog"
+title = "nta-Blog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features

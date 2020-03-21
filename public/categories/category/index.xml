@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>category on Title</title>
-    <link>https://example.com/categories/category/</link>
-    <description>Recent content in category on Title</description>
+    <title>category on nta-Blog</title>
+    <link>https://nta-variety-blog.netlify.com/categories/category/</link>
+    <description>Recent content in category on nta-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>jp</language>
     <lastBuildDate>Sat, 21 Mar 2020 16:57:05 +0900</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nta-variety-blog.netlify.com/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/post/my-first-post/</link>
+      <link>https://nta-variety-blog.netlify.com/post/my-first-post/</link>
       <pubDate>Sat, 21 Mar 2020 16:57:05 +0900</pubDate>
       
-      <guid>https://example.com/post/my-first-post/</guid>
+      <guid>https://nta-variety-blog.netlify.com/post/my-first-post/</guid>
       <description></description>
     </item>
     

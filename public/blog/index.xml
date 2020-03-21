@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Title</title>
-    <link>https://example.com/blog/</link>
-    <description>Recent content in Blogs on Title</description>
+    <title>Blogs on nta-Blog</title>
+    <link>https://nta-variety-blog.netlify.com/blog/</link>
+    <description>Recent content in Blogs on nta-Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>jp</language>
     <lastBuildDate>Sat, 21 Mar 2020 10:33:20 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nta-variety-blog.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>テストですな</title>
-      <link>https://example.com/blog/2020-03-21-%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%81%AA/</link>
+      <link>https://nta-variety-blog.netlify.com/blog/2020-03-21-%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%81%AA/</link>
       <pubDate>Sat, 21 Mar 2020 10:33:20 +0000</pubDate>
       
-      <guid>https://example.com/blog/2020-03-21-%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%81%AA/</guid>
+      <guid>https://nta-variety-blog.netlify.com/blog/2020-03-21-%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%81%AA/</guid>
       <description>aaaa aaaa hogehoge</description>
     </item>
     
