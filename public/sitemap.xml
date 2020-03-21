@@ -3,52 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2020-03-21T10:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-03-21T10:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/2020-03-21-%E3%83%86%E3%82%B9%E3%83%88%E3%81%A7%E3%81%99%E3%81%AA/</loc>
+    <lastmod>2020-03-21T10:33:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/category/</loc>
+    <loc>https://example.com/categories/category/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://example.com/post/my-first-post/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2020/03/my-first-post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://example.com/categories/subcategory/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/subcategory/</loc>
+    <loc>https://example.com/tags/tag1/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/tag1/</loc>
+    <loc>https://example.com/tags/tag2/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/tags/tag2/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2020-03-21T16:57:05+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2020-03-21T16:57:05+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/archives/</loc>
   </url>
   
 </urlset>
