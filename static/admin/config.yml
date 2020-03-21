@@ -19,5 +19,18 @@ collections:
       - {label: "タイトル", name: "title", widget: "string"}
       - {label: "公開日", name: "date", widget: "datetime"}
       - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
-      - {label: "レーティング", name: "rating", widget: "number"}
+#      - {label: "レーティング", name: "rating", widget: "number"}
       - {label: "本文", name: "body", widget: "markdown"}
+
+  - label: "Post"
+	name: "post"
+	folder: "content/post"
+	create:true
+	slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+	fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "サムネイル画像", name: "thumbnail", widget: "image"}
+#      - {label: "レーティング", name: "rating", widget: "number"}
+      - {label: "本文", name: "body", widget: "markdown"}
+

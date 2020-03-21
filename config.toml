@@ -1,8 +1,9 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
-languageCode = "en"
+baseurl = "https://nta-variety-blog.netlify.com/"
+languageCode = "en"dd
 
-title = "Title"
+
+title = "俺たちのBlog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -43,30 +44,30 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
+    # github = "<username>"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    # twitter = "<username>"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    # telegram = "<username>"
+    # email = "nt628a822@gmail.com"
     # gravatar = "your-email@example.com"
 
 ## Main Menu
 [[menu.main]]
-    name = "Posts"
+    name = "post"
     weight = 100
-    identifier = "posts"
-    url = "/posts/"
+    identifier = "post"
+    url = "/post/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
+    name = "blog"
+    identifier = "blog"
     weight = 200
-    url = "/portfolio/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+    url = "/blog/"
+#[[menu.main]]
+#    name = "About"
+#    identifier = "about"
+#    weight = 300
+#    url = "/about/"
