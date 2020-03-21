@@ -1,9 +1,9 @@
 ## Basic Configuration
 baseurl = "https://nta-variety-blog.netlify.com/"
-languageCode = "en"dd
+languageCode = "jp"
 
 
-title = "‰ø∫„Åü„Å°„ÅÆBlog"
+title = "â¥ÇΩÇøÇÃBlog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
