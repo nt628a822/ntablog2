@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: nt628a822/ntablog2
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "static"
 
